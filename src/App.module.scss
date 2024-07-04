@@ -1,0 +1,12 @@
+@import './styles/settings.scss';
+
+.app {
+    text-align: center;
+    align-content: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
