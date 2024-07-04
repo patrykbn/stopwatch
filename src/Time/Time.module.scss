@@ -1,6 +1,8 @@
 @import '../styles/settings.scss';
 
 .time {
-    font-size: ($base-size * 2);
+    font-size: ($base-size * 3);
+    color: $color-light;
+    font-family: $font-text;
     margin: 20px 0;
 }
